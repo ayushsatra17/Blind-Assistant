@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">398228033369-n3faq6lf7pp6ghptfv82qkbn4vsqiv8s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://splashscreenfinal.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">398228033369</string>
+    <string name="google_api_key" translatable="false">AIzaSyDXw3C_HKW1qcjyX69yKJrNCnuflgrgGB8</string>
+    <string name="google_app_id" translatable="false">1:398228033369:android:841b1f5075e99e07a08648</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXw3C_HKW1qcjyX69yKJrNCnuflgrgGB8</string>
+    <string name="google_storage_bucket" translatable="false">splashscreenfinal.appspot.com</string>
+    <string name="project_id" translatable="false">splashscreenfinal</string>
+</resources>

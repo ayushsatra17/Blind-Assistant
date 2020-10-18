@@ -1,0 +1,283 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="com.example.splashscreenfinal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml
+11
+12    <dist:module dist:instant="true" />
+12-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:6:5-40
+12-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:6:18-37
+13
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:8:5-68
+14-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:8:22-65
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:9:5-79
+15-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:11:5-75
+17-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:11:22-72
+18    <uses-permission android:name="android.permission.SEND_SMS" />
+18-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:12:5-67
+18-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:12:22-64
+19    <uses-permission android:name="android.permission.READ_CONTACTS" />
+19-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:13:5-72
+19-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:13:22-69
+20    <uses-permission android:name="android.permission.CALL_PHONE" />
+20-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:14:5-69
+20-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:14:22-66
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:15:5-80
+21-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:15:22-77
+22    <uses-permission android:name="android.permission.BLUETOOTH" />
+22-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:16:5-68
+22-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:16:22-65
+23    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+23-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:17:5-74
+23-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:17:22-71
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:18:5-67
+24-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:18:22-64
+25    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+25-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:19:5-71
+25-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:19:22-68
+26
+27    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+28    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+29    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+29-->[com.google.firebase:firebase-database:19.2.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:25:5-79
+29-->[com.google.firebase:firebase-database:19.2.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:25:22-76
+30
+31    <uses-feature
+31-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+32        android:glEsVersion="0x00020000"
+32-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+33        android:required="true" />
+33-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+34
+35    <application
+35-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:21:5-102:19
+36        android:allowBackup="true"
+36-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:22:9-35
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.2.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\b8d4f275bec3f3edcbb739dc4dc6c4e8\core-1.2.0\AndroidManifest.xml:24:18-86
+38        android:extractNativeLibs="false"
+39        android:icon="@mipmap/ic_launcher"
+39-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:23:9-43
+40        android:label="@string/app_name"
+40-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:24:9-41
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:25:9-54
+42        android:supportsRtl="true"
+42-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:26:9-35
+43        android:theme="@style/AppTheme"
+43-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:27:9-40
+44        android:windowSoftInputMode="adjustResize" >
+44-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:28:9-51
+45        <activity android:name="com.example.splashscreenfinal.Email" />
+45-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:29:9-52
+45-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:29:19-40
+46        <activity android:name="com.example.splashscreenfinal.Music" />
+46-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:30:9-43
+46-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:30:19-40
+47        <activity android:name="com.example.splashscreenfinal.GuardianlocationView" />
+47-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:31:9-58
+47-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:31:19-55
+48        <!--
+49               Set to true if your app is Standalone, that is, it does not require the handheld
+50               app to run.
+51        -->
+52        <activity android:name="com.example.splashscreenfinal.Show_alarm" />
+52-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:36:9-48
+52-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:36:19-45
+53        <activity android:name="com.example.splashscreenfinal.Show_timer" />
+53-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:37:9-48
+53-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:37:19-45
+54        <activity android:name="com.example.splashscreenfinal.Timer" />
+54-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:38:9-43
+54-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:38:19-40
+55        <activity android:name="com.example.splashscreenfinal.AlarmRIng" />
+55-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:39:9-47
+55-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:39:19-44
+56        <activity
+56-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:40:9-42:37
+57            android:name="com.example.splashscreenfinal.Clock"
+57-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:41:13-34
+58            android:label="Clock" />
+58-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:42:13-34
+59        <activity
+59-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:43:9-45:36
+60            android:name="com.example.splashscreenfinal.Call"
+60-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:44:13-33
+61            android:label="Call" />
+61-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:45:13-33
+62        <activity
+62-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:46:9-49:47
+63            android:name="com.example.splashscreenfinal.Message"
+63-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:47:13-36
+64            android:label="Message"
+64-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:48:13-36
+65            android:theme="@style/AppTheme" />
+65-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:49:13-44
+66        <activity
+66-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:50:9-52:37
+67            android:name="com.example.splashscreenfinal.Phone"
+67-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:51:13-34
+68            android:label="Phone" />
+68-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:52:13-34
+69        <activity
+69-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:53:9-56:81
+70            android:name="com.example.splashscreenfinal.Dynamic"
+70-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:54:13-36
+71            android:label="Gesture Setting"
+71-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:55:13-44
+72            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+72-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:56:13-78
+73        <!--
+74             The API key for Google Maps-based APIs is defined as a string resource.
+75             (See the file "res/values/google_maps_api.xml").
+76             Note that the API key is linked to the encryption key used to sign the APK.
+77             You need a different API key for each encryption key, including the release key that is used to
+78             sign the APK for publishing.
+79             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+80        -->
+81        <meta-data
+81-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:65:9-67:55
+82            android:name="com.google.android.geo.API_KEY"
+82-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:66:13-58
+83            android:value="@string/google_maps_key" />
+83-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:67:13-52
+84
+85        <activity
+85-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:69:9-72:47
+86            android:name="com.example.splashscreenfinal.GuardianMap"
+86-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:70:13-40
+87            android:label="Blind&apos;s Live Location"
+87-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:71:13-55
+88            android:theme="@style/AppTheme" />
+88-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:72:13-44
+89        <activity android:name="com.example.splashscreenfinal.GuardianSideLocation" />
+89-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:73:9-58
+89-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:73:19-55
+90        <activity
+90-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:74:9-76:81
+91            android:name="com.example.splashscreenfinal.Slider"
+91-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:75:13-35
+92            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+92-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:76:13-78
+93        <activity
+93-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:77:9-79:41
+94            android:name="com.example.splashscreenfinal.BlindsideLocation"
+94-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:78:13-46
+95            android:label="Emergency" />
+95-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:79:13-38
+96        <activity
+96-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:80:9-82:55
+97            android:name="com.example.splashscreenfinal.Sample"
+97-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:81:13-35
+98            android:label="Blind Assistant Modules" />
+98-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:82:13-52
+99        <activity android:name="com.example.splashscreenfinal.GuardianLogin" />
+99-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:83:9-51
+99-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:83:19-48
+100        <activity android:name="com.example.splashscreenfinal.ButtonSelection" />
+100-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:84:9-53
+100-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:84:19-50
+101        <activity
+101-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:85:9-87:81
+102            android:name="com.example.splashscreenfinal.Home"
+102-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:86:13-33
+103            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+103-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:87:13-78
+104        <activity
+104-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:88:9-98:20
+105            android:name="com.example.splashscreenfinal.MainActivity"
+105-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:89:13-41
+106            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" >
+106-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:90:13-78
+107            <intent-filter>
+107-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:91:13-97:29
+108                <action android:name="android.intent.action.MAIN" />
+108-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:92:17-69
+108-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:92:25-66
+109                <action android:name="android.intent.action.SCREEN_OFF" />
+109-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:93:17-75
+109-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:93:25-72
+110                <action android:name="android.intent.action.SCREEN_ON" />
+110-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:94:17-74
+110-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:94:25-71
+111
+112                <category android:name="android.intent.category.LAUNCHER" />
+112-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:96:17-77
+112-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:96:27-74
+113            </intent-filter>
+114        </activity>
+115
+116        <receiver android:name="com.example.splashscreenfinal.AlarmReceiver" />
+116-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:100:9-51
+116-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:100:19-48
+117        <receiver android:name="com.example.splashscreenfinal.Show_alarm" />
+117-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:101:9-48
+117-->C:\Users\dell\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:101:19-45
+118
+119        <service
+119-->[com.google.firebase:firebase-database:19.2.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:29:9-35:19
+120            android:name="com.google.firebase.components.ComponentDiscoveryService"
+120-->[com.google.firebase:firebase-database:19.2.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:30:13-84
+121            android:directBootAware="true"
+121-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+122            android:exported="false" >
+122-->[com.google.firebase:firebase-database:19.2.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:31:13-37
+123            <meta-data
+123-->[com.google.firebase:firebase-database:19.2.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:32:13-34:85
+124                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+124-->[com.google.firebase:firebase-database:19.2.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:33:17-109
+125                android:value="com.google.firebase.components.ComponentRegistrar" />
+125-->[com.google.firebase:firebase-database:19.2.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\468b182d948a813c175d023b96c3e587\jetified-firebase-database-19.2.1\AndroidManifest.xml:34:17-82
+126        </service> <!-- Needs to be explicitly declared on P+ -->
+127        <uses-library
+127-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+128            android:name="org.apache.http.legacy"
+128-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+129            android:required="false" />
+129-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\c68fd95edbf036eb6e25b894ffe98cc4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+130
+131        <provider
+131-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+132            android:name="com.google.firebase.provider.FirebaseInitProvider"
+132-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+133            android:authorities="com.example.splashscreenfinal.firebaseinitprovider"
+133-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+134            android:exported="false"
+134-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+135            android:initOrder="100" />
+135-->[com.google.firebase:firebase-common:19.3.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+136
+137        <activity
+137-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\e24ab2098bd581de9bdcddd5aa46d15d\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+138            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+138-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\e24ab2098bd581de9bdcddd5aa46d15d\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+139            android:exported="false"
+139-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\e24ab2098bd581de9bdcddd5aa46d15d\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+140            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+140-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\e24ab2098bd581de9bdcddd5aa46d15d\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+141
+142        <meta-data
+142-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+143            android:name="com.google.android.gms.version"
+143-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+144            android:value="@integer/google_play_services_version" />
+144-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+145    </application>
+146
+147</manifest>

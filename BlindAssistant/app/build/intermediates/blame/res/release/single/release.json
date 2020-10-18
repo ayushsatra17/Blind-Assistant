@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_error.PNG.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\error.PNG"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_slide5.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\slide5.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_blindside_location.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_blindside_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_coomunication.jpg.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\coomunication.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_image.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_bot_bg_bubble.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\bot_bg_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sample.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_slider.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_clockms.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\clockms.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_emergencyms.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\emergencyms.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_bluetooth.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_slide4.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\slide4.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_divider_drawable.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\divider_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_mail.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_callnew.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\callnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_swipedown.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\swipedown.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_mailms.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\mailms.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_bluetoothnew.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\bluetoothnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_slide7.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\slide7.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_call.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\menu_example_menu.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\menu\\example_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_swipeleft.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\swipeleft.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_alarm_r_ing.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_alarm_r_ing.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_user_msg_layout.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\user_msg_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_clockclock.jpg.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\clockclock.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_phone.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_guardianlocation_view.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_guardianlocation_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_chatbot_send_btn.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\chatbot_send_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_email.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_contactms.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\contactms.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_guardian_login.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_guardian_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_musicbg.jpg.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\musicbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_rightgesture.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\rightgesture.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_marker_b.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\marker_b.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_emergencynew.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\emergencynew.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_body.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\body.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_to.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\to.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_location.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_button.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_longpress.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\longpress.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_divider_shape.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\divider_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_attrs.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\attrs.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_tick.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_singletap.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\singletap.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_slide2.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_guardian_side_location.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_guardian_side_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_play.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\play.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_pause.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_coom.jpg.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\coom.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_mapicon.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\mapicon.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_locationnew.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\locationnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_greentick1.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\greentick1.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_gmailicon.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\gmailicon.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_clocknew.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\clocknew.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_clock.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_user_bg_bubble.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\user_bg_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_show_alarm.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_show_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_slide1.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_marker_a.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\marker_a.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_musicnew.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\musicnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_button_selection.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_button_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dynamic.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_dynamic.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_gradient.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_show_timer2.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_show_timer2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_music.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_call.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\call.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_locationms.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\locationms.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_timer.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_swipeup.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\swipeup.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_subject.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable-v24\\subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_guardian_map.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_guardian_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_firstlocation.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\firstlocation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_emergency.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\emergency.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_blindoffline.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\blindoffline.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_bot_msg_layout.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\bot_msg_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_mailnew.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\mailnew.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_slide3.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\slide3.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_clock.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_doubletap.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\doubletap.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_finallocation.png.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\finallocation.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\drawable_bluetoothms.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\drawable\\bluetoothms.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_slide6.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\slide6.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\dell\\Desktop\\BlindAssistant\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    }
+]

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GuardianlocationView"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#20B2AA"
+        android:padding="8dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="15dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:strokeWidth="7dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:text="Sub Locality"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"
+                    android:paddingLeft="10dp" />
+
+                <TextView
+                    android:id="@+id/subl"
+                    android:text="NULL"
+                    android:padding="3dip"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"/>
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:strokeWidth="7dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                >
+                <TextView
+                    android:text="City"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"
+                    android:paddingLeft="10dp"
+
+                    />
+                <TextView
+                    android:id="@+id/city"
+                    android:text="NULL"
+                    android:padding="3dip"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"/>
+
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:strokeWidth="7dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                >
+                <TextView
+                    android:text="Postal Code"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"
+                    android:paddingLeft="10dp"
+
+                    />
+                <TextView
+                    android:id="@+id/pc"
+                    android:text="NULL"
+                    android:padding="3dip"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"/>
+
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:strokeWidth="7dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                >
+                <TextView
+                    android:text="Division"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"
+                    android:paddingLeft="10dp"
+
+                    />
+                <TextView
+                    android:id="@+id/division"
+                    android:text="NULL"
+                    android:padding="3dip"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"/>
+
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:strokeWidth="7dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                >
+                <TextView
+                    android:text="Country"
+                    android:paddingLeft="10dp"
+
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"
+                    />
+                <TextView
+                    android:id="@+id/country"
+                    android:text="NULL"
+                    android:padding="3dip"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"/>
+
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:strokeWidth="7dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                >
+                <TextView
+                    android:paddingLeft="10dp"
+                    android:text="Latitude"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"
+                    />
+                <TextView
+                    android:id="@+id/latitude"
+                    android:text="NULL"
+                    android:padding="3dip"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"/>
+
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            app:strokeWidth="7dp"
+            app:cardElevation="5dp"
+            android:layout_margin="8dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                >
+                <TextView
+                    android:text="Longitude"
+                    android:paddingLeft="10dp"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"
+                    />
+                <TextView
+                    android:id="@+id/longitude"
+                    android:text="NULL"
+                    android:padding="3dip"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_width="180dp"
+                    android:textSize="20dp"/>
+
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+
+    </LinearLayout>
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn"
+        style="Widget.MaterialComponents.Button"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:backgroundTint="#20B2AA"
+        android:onClick="maplocation"
+        android:padding="8dp"
+        android:text="View Location on map"
+        android:textColor="#ffffff"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        app:icon="@drawable/location"
+        app:iconGravity="textStart"
+        app:rippleColor="#00BFFF" />
+
+</LinearLayout>

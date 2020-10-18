@@ -1,0 +1,311 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="com.example.splashscreenfinal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml
+11
+12    <dist:module dist:instant="true" />
+12-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:6:5-40
+12-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:6:18-37
+13
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:8:5-68
+14-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:8:22-65
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:9:5-79
+15-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:11:5-75
+17-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:11:22-72
+18    <uses-permission android:name="android.permission.SEND_SMS" />
+18-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:12:5-67
+18-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:12:22-64
+19    <uses-permission android:name="android.permission.READ_CONTACTS" />
+19-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:13:5-72
+19-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:13:22-69
+20    <uses-permission android:name="android.permission.CALL_PHONE" />
+20-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:14:5-69
+20-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:14:22-66
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:15:5-80
+21-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:15:22-77
+22    <uses-permission android:name="android.permission.BLUETOOTH" />
+22-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:16:5-68
+22-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:16:22-65
+23    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+23-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:17:5-74
+23-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:17:22-71
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:18:5-67
+24-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:18:22-64
+25    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+25-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:19:5-71
+25-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:19:22-68
+26
+27    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+28    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+29    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+29-->[com.google.firebase:firebase-database:19.2.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\faf5133ba0b33a2fde13b99aa002026c\jetified-firebase-database-19.2.1\AndroidManifest.xml:25:5-79
+29-->[com.google.firebase:firebase-database:19.2.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\faf5133ba0b33a2fde13b99aa002026c\jetified-firebase-database-19.2.1\AndroidManifest.xml:25:22-76
+30
+31    <uses-feature
+31-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+32        android:glEsVersion="0x00020000"
+32-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+33        android:required="true" />
+33-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+34
+35    <application
+35-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:21:5-86:19
+36        android:allowBackup="true"
+36-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:22:9-35
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.2.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\e5357b0b880d2be0ed83398576c19d42\core-1.2.0\AndroidManifest.xml:24:18-86
+38        android:debuggable="true"
+39        android:extractNativeLibs="false"
+40        android:icon="@mipmap/ic_launcher"
+40-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:23:9-43
+41        android:label="@string/app_name"
+41-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:24:9-41
+42        android:roundIcon="@mipmap/ic_launcher_round"
+42-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:25:9-54
+43        android:supportsRtl="true"
+43-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:26:9-35
+44        android:testOnly="true"
+45        android:theme="@style/AppTheme"
+45-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:27:9-40
+46        android:windowSoftInputMode="adjustResize" >
+46-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:28:9-51
+47        <activity
+47-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:29:9-70
+48            android:name="com.example.splashscreenfinal.Email"
+48-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:29:19-40
+49            android:label="Send Email" />
+49-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:29:41-67
+50        <activity
+50-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:30:9-73
+51            android:name="com.example.splashscreenfinal.Music"
+51-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:30:19-40
+52            android:label="Entertainment" />
+52-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:30:41-70
+53        <activity
+53-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:31:9-97
+54            android:name="com.example.splashscreenfinal.GuardianlocationView"
+54-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:31:19-55
+55            android:label="Blind - Online/Offline" />
+55-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:31:56-94
+56        <activity android:name="com.example.splashscreenfinal.Show_alarm" />
+56-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:32:9-48
+56-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:32:19-45
+57        <activity android:name="com.example.splashscreenfinal.Show_timer" />
+57-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:33:9-48
+57-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:33:19-45
+58        <activity android:name="com.example.splashscreenfinal.Timer" />
+58-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:34:9-43
+58-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:34:19-40
+59        <activity android:name="com.example.splashscreenfinal.AlarmRIng" />
+59-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:35:9-47
+59-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:35:19-44
+60        <activity
+60-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:36:9-65
+61            android:name="com.example.splashscreenfinal.Clock"
+61-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:36:19-40
+62            android:label="Clock" />
+62-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:36:41-62
+63        <activity
+63-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:37:9-63
+64            android:name="com.example.splashscreenfinal.Call"
+64-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:37:19-39
+65            android:label="Call" />
+65-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:37:40-60
+66        <activity
+66-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:38:9-69
+67            android:name="com.example.splashscreenfinal.Message"
+67-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:38:19-42
+68            android:label="Message" />
+68-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:38:43-66
+69        <activity
+69-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:39:9-65
+70            android:name="com.example.splashscreenfinal.Phone"
+70-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:39:19-40
+71            android:label="Phone" />
+71-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:39:41-62
+72        <activity
+72-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:40:9-41:81
+73            android:name="com.example.splashscreenfinal.Dynamic"
+73-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:40:19-42
+74            android:label="Gesture Setting"
+74-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:40:43-74
+75            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+75-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:41:13-78
+76        <!--
+77             The API key for Google Maps-based APIs is defined as a string resource.
+78             (See the file "res/values/google_maps_api.xml").
+79             Note that the API key is linked to the encryption key used to sign the APK.
+80             You need a different API key for each encryption key, including the release key that is used to
+81             sign the APK for publishing.
+82             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+83        -->
+84        <meta-data
+84-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:50:9-52:55
+85            android:name="com.google.android.geo.API_KEY"
+85-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:51:13-58
+86            android:value="@string/google_maps_key" />
+86-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:52:13-52
+87
+88        <activity
+88-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:54:9-57:47
+89            android:name="com.example.splashscreenfinal.GuardianMap"
+89-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:55:13-40
+90            android:label="Blind&apos;s Live Location"
+90-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:56:13-55
+91            android:theme="@style/AppTheme" />
+91-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:57:13-44
+92        <activity android:name="com.example.splashscreenfinal.GuardianSideLocation" />
+92-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:58:9-58
+92-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:58:19-55
+93        <activity
+93-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:59:9-61:81
+94            android:name="com.example.splashscreenfinal.Slider"
+94-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:60:13-35
+95            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+95-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:61:13-78
+96        <activity
+96-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:62:9-64:41
+97            android:name="com.example.splashscreenfinal.BlindsideLocation"
+97-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:63:13-46
+98            android:label="Emergency" />
+98-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:64:13-38
+99        <activity
+99-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:65:9-67:55
+100            android:name="com.example.splashscreenfinal.Sample"
+100-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:66:13-35
+101            android:label="Blind Assistant Modules" />
+101-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:67:13-52
+102        <activity android:name="com.example.splashscreenfinal.GuardianLogin" />
+102-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:68:9-51
+102-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:68:19-48
+103        <activity android:name="com.example.splashscreenfinal.ButtonSelection" />
+103-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:69:9-53
+103-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:69:19-50
+104        <activity
+104-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:70:9-72:81
+105            android:name="com.example.splashscreenfinal.Home"
+105-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:71:13-33
+106            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" />
+106-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:72:13-78
+107        <activity
+107-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:73:9-82:20
+108            android:name="com.example.splashscreenfinal.MainActivity"
+108-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:74:13-41
+109            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" >
+109-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:75:13-78
+110            <intent-filter>
+110-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:76:13-81:29
+111                <action android:name="android.intent.action.MAIN" />
+111-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:77:17-69
+111-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:77:25-66
+112                <action android:name="android.intent.action.SCREEN_OFF" />
+112-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:78:17-75
+112-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:78:25-72
+113                <action android:name="android.intent.action.SCREEN_ON" />
+113-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:79:17-74
+113-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:79:25-71
+114
+115                <category android:name="android.intent.category.LAUNCHER" />
+115-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:80:17-77
+115-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:80:27-74
+116            </intent-filter>
+117        </activity>
+118
+119        <receiver android:name="com.example.splashscreenfinal.AlarmReceiver" />
+119-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:84:9-51
+119-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:84:19-48
+120        <receiver android:name="com.example.splashscreenfinal.Show_alarm" />
+120-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:85:9-48
+120-->C:\Users\ayush\Desktop\BlindAssistant\app\src\main\AndroidManifest.xml:85:19-45
+121
+122        <service
+122-->[com.google.firebase:firebase-database:19.2.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\faf5133ba0b33a2fde13b99aa002026c\jetified-firebase-database-19.2.1\AndroidManifest.xml:29:9-35:19
+123            android:name="com.google.firebase.components.ComponentDiscoveryService"
+123-->[com.google.firebase:firebase-database:19.2.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\faf5133ba0b33a2fde13b99aa002026c\jetified-firebase-database-19.2.1\AndroidManifest.xml:30:13-84
+124            android:directBootAware="true"
+124-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+125            android:exported="false" >
+125-->[com.google.firebase:firebase-database:19.2.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\faf5133ba0b33a2fde13b99aa002026c\jetified-firebase-database-19.2.1\AndroidManifest.xml:31:13-37
+126            <meta-data
+126-->[com.google.firebase:firebase-database:19.2.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\faf5133ba0b33a2fde13b99aa002026c\jetified-firebase-database-19.2.1\AndroidManifest.xml:32:13-34:85
+127                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+127-->[com.google.firebase:firebase-database:19.2.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\faf5133ba0b33a2fde13b99aa002026c\jetified-firebase-database-19.2.1\AndroidManifest.xml:33:17-109
+128                android:value="com.google.firebase.components.ComponentRegistrar" />
+128-->[com.google.firebase:firebase-database:19.2.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\faf5133ba0b33a2fde13b99aa002026c\jetified-firebase-database-19.2.1\AndroidManifest.xml:34:17-82
+129        </service> <!-- Needs to be explicitly declared on P+ -->
+130        <uses-library
+130-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+131            android:name="org.apache.http.legacy"
+131-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+132            android:required="false" />
+132-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\7dfc471bb7895bd3179d625100b7218f\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+133
+134        <activity
+134-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\bd15c1042c9c3e1feddcdb7b9c87d6a4\jetified-play-services-auth-18.0.0\AndroidManifest.xml:23:9-27:75
+135            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+135-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\bd15c1042c9c3e1feddcdb7b9c87d6a4\jetified-play-services-auth-18.0.0\AndroidManifest.xml:24:13-93
+136            android:excludeFromRecents="true"
+136-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\bd15c1042c9c3e1feddcdb7b9c87d6a4\jetified-play-services-auth-18.0.0\AndroidManifest.xml:25:13-46
+137            android:exported="false"
+137-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\bd15c1042c9c3e1feddcdb7b9c87d6a4\jetified-play-services-auth-18.0.0\AndroidManifest.xml:26:13-37
+138            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+138-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\bd15c1042c9c3e1feddcdb7b9c87d6a4\jetified-play-services-auth-18.0.0\AndroidManifest.xml:27:13-72
+139        <!--
+140            Service handling Google Sign-In user revocation. For apps that do not integrate with
+141            Google Sign-In, this service will never be started.
+142        -->
+143        <service
+143-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\bd15c1042c9c3e1feddcdb7b9c87d6a4\jetified-play-services-auth-18.0.0\AndroidManifest.xml:33:9-36:110
+144            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+144-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\bd15c1042c9c3e1feddcdb7b9c87d6a4\jetified-play-services-auth-18.0.0\AndroidManifest.xml:34:13-89
+145            android:exported="true"
+145-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\bd15c1042c9c3e1feddcdb7b9c87d6a4\jetified-play-services-auth-18.0.0\AndroidManifest.xml:35:13-36
+146            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+146-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\bd15c1042c9c3e1feddcdb7b9c87d6a4\jetified-play-services-auth-18.0.0\AndroidManifest.xml:36:13-107
+147
+148        <provider
+148-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+149            android:name="com.google.firebase.provider.FirebaseInitProvider"
+149-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+150            android:authorities="com.example.splashscreenfinal.firebaseinitprovider"
+150-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+151            android:exported="false"
+151-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+152            android:initOrder="100" />
+152-->[com.google.firebase:firebase-common:19.3.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\d5ae2f905dca277d72c2333071856016\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+153
+154        <activity
+154-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\73f874509465423414ab7604a318e1cc\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+155            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+155-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\73f874509465423414ab7604a318e1cc\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+156            android:exported="false"
+156-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\73f874509465423414ab7604a318e1cc\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+157            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+157-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\73f874509465423414ab7604a318e1cc\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+158
+159        <meta-data
+159-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\5eb669ce5a805bc6842a7cd8fb336c21\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+160            android:name="com.google.android.gms.version"
+160-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\5eb669ce5a805bc6842a7cd8fb336c21\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+161            android:value="@integer/google_play_services_version" />
+161-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\ayush\.gradle\caches\transforms-2\files-2.1\5eb669ce5a805bc6842a7cd8fb336c21\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+162    </application>
+163
+164</manifest>

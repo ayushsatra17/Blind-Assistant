@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BlindAssistant.iml" filepath="$PROJECT_DIR$/.idea/BlindAssistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="splashscreenFinal/app" />
+      <module fileurl="file://$PROJECT_DIR$/splashscreenFinal.iml" filepath="$PROJECT_DIR$/splashscreenFinal.iml" group="splashscreenFinal" />
+    </modules>
+  </component>
+</project>

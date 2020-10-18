@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    android:clickable="false">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:text="Gesture Setting Module"
+        android:textSize="38dp"
+        android:layout_marginBottom="40dp" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        app:strokeWidth="7dp"
+        app:cardElevation="5dp"
+        android:layout_margin="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/mail"
+                android:background="#20B2AA"
+                android:padding="16dp"
+                android:layout_marginRight="4dp"/>
+
+            <TextView
+                android:layout_width="180dp"
+                android:layout_height="match_parent"
+                android:text="Email"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textAlignment="textStart" />
+
+            <cdflynn.android.library.checkview.CheckView
+                android:id="@+id/check"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                app:checkView_strokeColor="@color/green" />
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        app:strokeWidth="5dp"
+        app:cardElevation="5dp"
+        android:layout_margin="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/bluetooth"
+                android:background="#20B2AA"
+                android:padding="16dp"
+                android:layout_marginRight="4dp"/>
+
+            <TextView
+                android:layout_width="180dp"
+                android:layout_height="match_parent"
+                android:text="Music"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textAlignment="textStart" />
+
+            <cdflynn.android.library.checkview.CheckView
+                android:id="@+id/check1"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                app:checkView_strokeColor="@color/green" />
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        app:strokeWidth="5dp"
+        app:cardElevation="5dp"
+        android:layout_margin="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/clock"
+                android:background="#20B2AA"
+                android:padding="16dp"
+                android:layout_marginRight="4dp" />
+
+            <TextView
+                android:layout_width="180dp"
+                android:layout_height="match_parent"
+                android:text="Clock"
+                android:textSize="25dp"
+                android:gravity="center"
+                android:textAlignment="textStart"
+                android:textStyle="bold"/>
+
+            <cdflynn.android.library.checkview.CheckView
+                android:id="@+id/check2"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                app:checkView_strokeColor="@color/green" />
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        app:strokeWidth="5dp"
+        app:cardElevation="5dp"
+        android:layout_margin="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/call"
+                android:background="#20B2AA"
+                android:padding="16dp"
+                android:layout_marginRight="4dp"/>
+
+            <TextView
+                android:layout_width="180dp"
+                android:layout_height="match_parent"
+                android:text="Phone"
+                android:textSize="25dp"
+                android:gravity="center"
+                android:textAlignment="textStart"
+                android:textStyle="bold"/>
+
+            <cdflynn.android.library.checkview.CheckView
+                android:id="@+id/check3"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                app:checkView_strokeColor="@color/green" />
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="8dp"
+        app:strokeWidth="5dp"
+        app:cardElevation="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/location"
+                android:background="#20B2AA"
+                android:padding="16dp"
+                android:layout_marginRight="4dp" />
+
+            <TextView
+                android:layout_width="180dp"
+                android:layout_height="match_parent"
+                android:text="Nearby Places"
+                android:textSize="25dp"
+                android:gravity="center"
+                android:textAlignment="textStart"
+                android:textStyle="bold"/>
+
+            <cdflynn.android.library.checkview.CheckView
+                android:id="@+id/check4"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                app:checkView_strokeColor="@color/green" />
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        app:strokeWidth="5dp"
+        app:cardElevation="5dp"
+        android:layout_margin="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/emergency"
+                android:background="#20B2AA"
+                android:padding="16dp"
+                android:layout_marginRight="4dp" />
+
+            <TextView
+                android:layout_width="180dp"
+                android:layout_height="match_parent"
+                android:padding="2dp"
+                android:text="Emergency"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textAlignment="textStart" />
+
+            <cdflynn.android.library.checkview.CheckView
+                android:id="@+id/check5"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                app:checkView_strokeColor="@color/green" />
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>

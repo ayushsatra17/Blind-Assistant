@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ButtonSelection"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="24dp"
+    android:padding="16dp"
+    >
+
+    <com.google.android.material.button.MaterialButton
+        style="Widget.MaterialComponents.Button"
+        android:backgroundTint="#40E0D0"
+        android:text="PROCEED AS BLIND >>"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:onClick="blindLogin"
+        />
+
+
+    <com.google.android.material.button.MaterialButton
+        style="Widget.MaterialComponents.Button"
+        android:backgroundTint="#0000CD	"
+        android:text="PROCEED AS GUARDIAN >>"
+        app:rippleColor="#00BFFF"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="16dp"
+        android:onClick="guardianLogin"
+        />
+
+</LinearLayout>

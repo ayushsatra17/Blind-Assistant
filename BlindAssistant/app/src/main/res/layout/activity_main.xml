@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ButtonSelection"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="#20B2AA">
+
+  <ImageView
+      android:id="@+id/imgLogo"
+      android:layout_width="wrap_content"
+      android:layout_height="120dp"
+      android:layout_centerInParent="true"
+      android:src="@drawable/image" />
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="32dp"
+      android:textSize="50dp"
+      android:textStyle="bold"
+      android:textColor="#ffffff"
+      android:gravity="center"
+      android:text="Blind Assistant"
+      tools:ignore="RtlCompat"
+      android:fontFamily="cursive"
+      android:layout_marginBottom="30dp"
+
+      />
+
+  <com.google.android.material.button.MaterialButton
+
+      style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+      app:strokeWidth="2dp"
+      app:strokeColor="#ffffff"
+      android:text="PROCEED AS BLIND >>"
+      android:textColor="#ffffff"
+      android:textSize="18dp"
+      android:textStyle="bold"
+      android:layout_height="70dp"
+      android:layout_width="match_parent"
+      android:onClick="blindLogin"
+      android:clickable="false"
+      />
+
+
+  <com.google.android.material.button.MaterialButton
+      style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+      app:strokeWidth="2dp"
+      app:strokeColor="#ffffff"
+      android:textSize="18dp"
+      android:text="PROCEED AS GUARDIAN >>"
+      app:rippleColor="#00BFFF"
+      android:textColor="#ffffff"
+      android:textStyle="bold"
+      android:layout_height="70dp"
+      android:layout_width="match_parent"
+      android:layout_marginTop="16dp"
+      android:onClick="guardianLogin"
+      />
+
+</LinearLayout>

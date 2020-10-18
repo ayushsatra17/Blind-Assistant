@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GuardianSideLocation"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="250dp"
+        android:layout_height="250dp" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp" />
+
+    <TextView
+        android:id="@+id/body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="17dp"
+        android:textAlignment="center"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="bottom">
+
+    </LinearLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_height="60dp"
+        android:layout_width="match_parent"
+        android:layout_margin="16dp"
+        android:padding="8dp"
+        android:id="@+id/location"
+        android:layout_marginBottom="24dp"
+        style="Widget.MaterialComponents.Button"
+        android:backgroundTint="#20B2AA"
+        android:text="View Geocoded Location"
+        app:rippleColor="#00BFFF"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:onClick="viewLocation"
+        android:textSize="16dp"
+        android:visibility="invisible" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn"
+        style="Widget.MaterialComponents.Button"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="16dp"
+        android:backgroundTint="#20B2AA"
+        android:onClick="clicked"
+        android:text="View Location on map"
+        android:textColor="#ffffff"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        app:icon="@drawable/location"
+        app:iconGravity="textStart"
+        app:rippleColor="#00BFFF" />
+
+</LinearLayout>
