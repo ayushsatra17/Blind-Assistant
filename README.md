@@ -3,8 +3,6 @@
 Blind-Assistant is an android application that serves as an automated gesture-based application that is totally under the control of the blind for performing daily chores and reducing the intervention of the third party.
 Additionally, the application uses a text-to-speech engine to read out a text smartly and concisely. A speech-to-text engine is also used to receive and confirm necessary input from the blind.
 </p>
-<h3>Tech Stack</h3>
-<p>Android, Firebase</p>
 <h2>Features</h2>
 <dl>
 <dt>Read Aloud
@@ -17,19 +15,19 @@ Setting gestures dynamically: This feature will allow the user to set a particul
 Adjust Reading Speed
 </dt>
 <dd>
-	The user can change the speed of the text-to-speech reader according to their will.
+The user can change the speed of the text-to-speech reader according to their will.
 </dd>
 <dt>
 Read and compose mails
 </dt>
 <dd>
-	The user can compose mails as well as the user is able to read the received mails.
+The user can compose mails as well as the user is able to read the received mails.
 </dd>
 <dt>
 Music
 </dt>
 <dd>
-	The user is provided with an option to connect the device to Bluetooth and listen to the downloaded songs by performing defined gestures.
+The user is provided with an option to connect the device to Bluetooth and listen to the downloaded songs by performing defined gestures.
 </dd>
 <dt>
 Clock
@@ -42,14 +40,12 @@ Emergency Service:
 </dt>
 <dd>
 This module helps the blind user to alert the guardian in case of any emergency by carrying out a particular gesture. The guardian is then able to view the live location of the blind.
-
-
 </dd>
 <dt>
 Contacts Module
 </dt>
 <dd>
-	The user can call or message any person from their contacts or outside the contacts.
+The user can call or message any person from their contacts or outside the contacts.
 </dd>
 <dt>
 Nearby Places Module
@@ -61,3 +57,12 @@ The user can find as well as navigate through various places like hospitals, pol
 <h2>
 Publications
 </h2>
+<p>
+	<a href="https://www.ijrter.com/papers/volume-6/issue-3/voice-and-gesture-based-application-for-blind.pdf" target="_blank">Review Paper</a>
+</p>
+<h2>
+Video Demonstration
+</h2>
+<p>
+	<a href="https://drive.google.com/file/d/1OTh5MgFPWfrDORhF6EJ-CxrnbuxOo1nA/view?usp=sharing" target="_blank">Click here</a>
+</p>
